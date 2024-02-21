@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|c:\\xampp\\htdocs\\dt191g\\dt191g_mom4\\songapi\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|solutionrelative:controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|c:\\xampp\\htdocs\\dt191g\\dt191g_mom4\\songapi\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|solutionrelative:models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|c:\\xampp\\htdocs\\dt191g\\dt191g_mom4\\songapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|c:\\xampp\\htdocs\\dt191g\\dt191g_mom4\\songapi\\models\\songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8763905F-A600-4E6D-B93D-E234077FD4DF}|SongApi.csproj|solutionrelative:models\\songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SongsController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "Controllers\\SongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T09:15:22.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T09:11:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongContext.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Models\\SongContext.cs",
+              "RelativeDocumentMoniker": "Models\\SongContext.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Models\\SongContext.cs",
+              "RelativeToolTip": "Models\\SongContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T09:09:00.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Models\\Song.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DT191G\\DT191G_mom4\\SongApi\\Models\\Song.cs",
+              "RelativeToolTip": "Models\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T09:06:52.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
